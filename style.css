@@ -14,7 +14,7 @@ caption {
 table {
     width: 50%;
     border-collapse: collapse;
-    margin: 5px 0;  
+    margin: auto;  
 }
 
 th, td {
