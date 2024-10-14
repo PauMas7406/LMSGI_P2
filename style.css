@@ -1,0 +1,53 @@
+h1 {
+    color: #07f41a;
+    font-weight: bold;
+    text-align: center;
+}
+
+caption {
+    color: aquamarine;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 5px 0;  
+}
+
+th, td {
+    width: 100px;
+    border: 2px solid black;
+    padding: 4px;
+    text-align: center;
+}
+
+th {
+    background-color: blueviolet;
+}
+.SI {
+    background-color:blue
+}
+.BD {
+    background-color: red;
+}
+.LMSGI {
+    background-color: yellow;
+}
+.PED {
+    background-color: orange;
+}
+.TUT {
+    background-color: bisque;
+}
+.IPOI {
+    background-color: green;
+}
+.DIW {
+    background-color: aquamarine;
+}
+.AN {
+    background-color: aqua;
+}
