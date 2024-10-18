@@ -1,3 +1,7 @@
+#horari {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
     color: #07f41a;
     font-weight: bold;
@@ -12,7 +16,6 @@ caption {
 }
 
 table {
-    width: 50%;
     border-collapse: collapse;
     margin: auto;  
 }
@@ -50,4 +53,19 @@ th {
 }
 .AN {
     background-color: aqua;
+}
+#Descans {
+    padding: 15px;
+    font-size: 20px;
+}
+
+th {
+    padding: 30px;
+    font-size: 25px;
+}
+
+.hores {
+    padding: 10px;
+    font-size: 20px;
+    width: 180px;
 }
